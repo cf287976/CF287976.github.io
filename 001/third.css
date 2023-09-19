@@ -1,0 +1,18 @@
+.left{
+	width: 20%;
+	height:80%;
+	background:blue;
+	position: absolute;
+	left:5%;
+	top:10%;
+	margin: auto;
+}
+.right{
+	width:70%;
+	height:80%;
+	background: #00ffff;
+	position: absolute;
+	left:25%;
+	top:10%;
+	margin: auto;
+}

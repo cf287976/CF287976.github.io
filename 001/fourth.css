@@ -1,0 +1,36 @@
+.top{
+	background-color:blue;
+	width:90%;
+	height:12%;
+	position: absolute;
+	left:5%;
+	top:5%;
+	margin: auto;
+}
+.midleft{
+	width: 20%;
+	height:69%;
+	background:#1ea6a3;
+	position: absolute;
+	left:5%;
+	top:17%;
+	margin: auto;
+}
+.midright{
+	width:70%;
+	height:69%;
+	background:#00ffff;
+	position: absolute;
+	left:25%;
+	top:17%;
+	margin: auto;
+}
+.bouttom{
+	background-color:blue;
+	width:90%;
+	height:9%;
+	position: absolute;
+	left:5%;
+	top:85%;
+	margin: auto;
+}

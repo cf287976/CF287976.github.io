@@ -1,0 +1,51 @@
+.top{
+	background-color:blue;
+	position: absolute;
+	left:5%;
+	top:5%;
+	width:90%;
+	height:12%;
+	margin: auto;
+}
+.mid{
+	background-color:#3d3d3d;
+	position: absolute;	
+	width: 90%;
+	height: 9%;
+	left:5%;
+	top:17%;
+}
+.left{
+	width: 25%;
+	height:60%;
+	background:#0ff;
+	position: absolute;
+	left:5%;
+	top:26%;
+}
+.middle{
+	width: 40%;
+	height:60%;
+	background:#1ea6a3;
+	position: absolute;
+	left:30%;
+	top:26%;
+}
+.right{
+	width:25%;
+	height:60%;
+	background:#00ffff;
+	position: absolute;
+	left:70%;
+	top:26%;
+	margin: auto;
+}
+.bouttom{
+	background-color:blue;
+	width:90%;
+	height:9%;
+	position: absolute;
+	left:5%;
+	top:85%;
+	margin: auto;
+}
